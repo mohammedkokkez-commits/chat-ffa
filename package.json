@@ -1,0 +1,13 @@
+{
+  "name": "chat-privet",
+  "version": "2.0.0",
+  "description": "محادثة خاصة بين شخصين، مباشرة، متوافقة مع آيباد الجيل الأول",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT"
+}
